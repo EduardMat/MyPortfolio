@@ -39,3 +39,33 @@ h2{
     font-size: 50px;
 }
 
+.resume{
+    font-family:Brush Script MT, Brush Script Std, cursive;
+    font-size: 40px;
+    padding-top: 30px;
+    color:#111164;
+}
+
+.bg-info{
+    background-color:  rgb(12, 12, 94) !important;
+}
+
+
+.work{font-family:Brush Script MT, Brush Script Std, cursive;
+    font-size: 40px;
+    padding-top: 30px;
+    color:#111164;
+
+}
+
+.cont{
+    background-color: rgb(12, 12, 94) ;
+    color:white;
+    margin:15px;
+    border-radius: 5px;
+}
+
+.email-link{
+    text-decoration: none;
+    padding:10px;
+}
