@@ -1,0 +1,25 @@
+header{
+    background-color: rgb(12, 12, 94);
+    height:170px;
+    color:white;
+}
+
+h1{
+    position:right;
+}
+
+.bg-body-tertiary{
+    background-color: rgb(12, 12, 94) !important;
+}
+
+.navar-brand{
+    color:white !important;
+    font-family:Brush Script MT, Brush Script Std, cursive;
+    font-size: 40px;
+    text-decoration: none;
+    padding:10px;
+}
+
+.dropdown-toggle{
+    color:white !important;
+}
