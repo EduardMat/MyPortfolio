@@ -24,7 +24,10 @@ img:hover {
 
 .bg-body-tertiary {
   background-color: rgb(12, 12, 94) !important;
+  
 }
+
+
 
 .navar-brand {
   color: white !important;
@@ -36,6 +39,26 @@ img:hover {
 
 .dropdown-toggle {
   color: white !important;
+}
+
+.navbar-toggler{
+    color:white !important;
+    
+}
+
+.navbar{
+    color:white !important;
+
+}
+
+.navbar-nav{
+    color:white !important;
+
+}
+
+.container-fluid{
+    color:white !important;
+
 }
 
 .welcome {
@@ -53,6 +76,7 @@ img:hover {
   font-size: 40px;
   padding-top: 40px;
   color: #111164;
+  text-align: center;
 }
 
 .bg-info {
@@ -85,6 +109,38 @@ img:hover {
   margin: 15px;
   border-radius: 5px;
   transition: all 300ms ease-in-out;
+}
+
+.cont-btn {
+  background-color: rgb(12, 12, 94);
+  color: white;
+  margin: 15px;
+  border-radius: 5px;
+  text-decoration: none;
+  display: block;
+  margin:0 auto;
+}
+
+.cont-btn:hover {
+  background-color: rgb(211, 209, 209);
+  color: rgb(12, 12, 94);
+  margin: 15px;
+  border-radius: 5px;
+  transition: all 300ms ease-in-out;
+  text-decoration: none;
+  display:block;
+  margin:0 auto;
+}
+
+.resume-link{
+    text-decoration: none;
+    color:white;
+}
+.resume-link:hover{
+    text-decoration: none;
+    color:rgb(12, 12, 94);
+    transition: all 300ms ease-in-out;
+
 }
 
 .email-link {
