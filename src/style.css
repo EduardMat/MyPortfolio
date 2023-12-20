@@ -149,6 +149,14 @@ img:hover {
   margin: 15px;
 }
 
+.about{
+  padding:30px;
+  margin:30px;
+  color:#111164;
+  font-size: 20px;
+  font-family:Arial, Helvetica, sans-serif;
+}
+
 footer .social-links {
   display: flex;
   justify-content: space-evenly;
